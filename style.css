@@ -296,6 +296,14 @@ article{
  
 }
 
+form{
+  display:flex;
+  flex-direction: column;
+  gap:1 rem;
+  width: 100%;
+  
+}
+
 }
 
 

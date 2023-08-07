@@ -1,0 +1,14 @@
+for each project
+1.run git init
+2.use git status to check the status of your process
+3.add all the file to the index or stage by runing git add . or filename
+4. run git commit -m "first commit"
+run git push -u origin main
+5. copy 3 lines of codes and paste it
+
+B. to update in the existing project;
+1. git add .
+2 git commit -m "explain what changes"
+3.git push
+
+
